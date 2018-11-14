@@ -13,7 +13,7 @@ header {
   padding: 30px; text-align: center; 
   font-size: 35px; color: opaque; 
   background-image: url(balloons.jpg);
-  object-fit:contain; 
+  object-fit:fill; 
   } 
   
 h2 { 
